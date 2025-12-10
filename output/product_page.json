@@ -1,0 +1,22 @@
+{
+  "page_type": "product_page",
+  "hero": {
+    "headline": "GlowBoost Vitamin C Serum: daily brightening serum",
+    "summary": "10% Vitamin C formula with Vitamin C, Hyaluronic Acid tailored for Oily, Combination skin."
+  },
+  "highlights": [
+    "Skin type: Oily, Combination",
+    "Key ingredients: Vitamin C, Hyaluronic Acid",
+    "How to use: Apply 2–3 drops in the morning before sunscreen",
+    "Side effects: Mild tingling for sensitive skin"
+  ],
+  "benefits": [
+    "Brightening",
+    "Fades dark spots"
+  ],
+  "usage": "Apply 2–3 drops in the morning before sunscreen",
+  "pricing": {
+    "price": "₹699",
+    "valueMessage": "10% Vitamin C active care at ₹699—positioned for daily use."
+  }
+}

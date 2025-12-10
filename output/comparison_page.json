@@ -1,0 +1,49 @@
+{
+  "page_type": "comparison",
+  "products": {
+    "a": {
+      "name": "GlowBoost Vitamin C Serum",
+      "concentration": "10% Vitamin C",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "key_ingredients": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "benefits": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "usage": "Apply 2–3 drops in the morning before sunscreen",
+      "price": "₹699"
+    },
+    "b": {
+      "name": "LumaShield Serum B",
+      "concentration": "12% Vitamin C",
+      "skin_type": [
+        "Normal",
+        "Dry"
+      ],
+      "key_ingredients": [
+        "Vitamin C",
+        "Niacinamide"
+      ],
+      "benefits": [
+        "Brightening",
+        "Evens tone"
+      ],
+      "usage": "Apply 2 drops in the evening on clean, dry skin.",
+      "price": "₹849"
+    }
+  },
+  "ingredient_overlap": [
+    "Vitamin C"
+  ],
+  "key_differences": {
+    "concentration": "GlowBoost Vitamin C Serum: 10% Vitamin C vs LumaShield Serum B: 12% Vitamin C",
+    "price": "₹699 vs ₹849",
+    "benefits": "Brightening; Fades dark spots vs Brightening; Evens tone"
+  }
+}
